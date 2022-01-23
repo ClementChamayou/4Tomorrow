@@ -1,0 +1,42 @@
+4
+1
+cellophane
+3
+1
+1
+porcelaine
+1
+aérosol
+2
+1
+dosette café
+4
+porcelaine
+4
+1
+coton
+enveloppe
+gant
+1
+1
+4
+5
+1
+3
+1
+1
+2
+carton pizza
+tube dentifrice
+papier cadeau
+5
+5
+2
+vêtement
+1
+3
+bol
+emballage barre céréales
+5
+
+
